@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/tailvh/number-formatter.svg?branch=master)](https://travis-ci.org/tailvh/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/tailvh/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/tailvh/number-formatter?branch=master)
+
 Number Formatter
 =========
 
